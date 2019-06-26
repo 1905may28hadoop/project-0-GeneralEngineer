@@ -1,0 +1,3 @@
+2019-06-26 09:30:44 INFO  Controller:29 - Banking Sequence initiated, Systems a-go, Welcome to the Banking Portal
+2019-06-26 11:29:43 INFO  Controller:29 - Banking Sequence initiated, Systems a-go, Welcome to the Banking Portal
+2019-06-26 11:29:45 INFO  Controller:174 - Registration initiated

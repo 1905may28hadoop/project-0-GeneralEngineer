@@ -13,8 +13,13 @@
 		<log4j.configuration>log4j.properties</log4j.configuration>
 	</properties>
 
-	<dependencies>
-		<!-- JUnit -->
+  <dependencies>
+  	<dependency>
+  		<artifactId>ojdbc7</artifactId>
+  		<groupId>com.oracle</groupId>
+  		<version>12.1.0</version>
+  	</dependency>
+  	<!-- JUnit -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
@@ -29,5 +34,5 @@
 			<artifactId>log4j</artifactId>
 			<version>1.2.17</version>
 		</dependency>
-	</dependencies>
+  </dependencies>
 </project>
